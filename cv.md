@@ -17,20 +17,20 @@
 
 ## Education
 
--**07/2021** WebReference - HTML basics
--**07/2021** Code Basics - HTML for beginners
--**01/2021** Codebra.ru - HTML, CSS, JavaScript courses
--**02/2021** Udemy - HTML and CSS for beginners
--**10/2011** Belhard – Course of software testing
+- **07/2021** WebReference - HTML basics
+- **07/2021** Code Basics - HTML for beginners
+- **01/2021** Codebra.ru - HTML, CSS, JavaScript courses
+- **02/2021** Udemy - HTML and CSS for beginners
+- **10/2011** Belhard – Course of software testing
 
--**2001-2006** Belarusian State Economic University
+- **2001-2006** Belarusian State Economic University
               Marketing faculty
               Specialty: Advertising
 
 ## Work experience
 
 **03/2012-Present time** *Freelancer at the same time with main job. Search evaluator for Yandex, Google, Bing. Copywriting, translations, editing images, video. Testing websites, applications and features. Analyzing functional documentation.*
-*One of my successful [project] (https://www.aviabileti.by/).*
+*One of my successful [project](https://www.aviabileti.by/).*
 
 ### Administrative job experience
 
@@ -53,6 +53,7 @@
 ---
 
 ## Code samples
+
 '''
 <!DOCTYPE html>
 <html>
@@ -68,7 +69,6 @@
     <li><span>Пункт первый</span></li>
     <li><span>Пункт второй</span></li>
 </ol>
-
 	</body>
 </html>
 '''
