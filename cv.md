@@ -34,13 +34,13 @@
 
 ### Administrative job experience
 
--**08/2012-03/2017** IKA logistic – cargo transportation in Europe **Accountant**
+- **08/2012-03/2017** IKA logistic – cargo transportation in Europe **Accountant**
 			        
--**10/2009-05/2012** Autoeuroexpress – cargo transportation in Europe 
+- **10/2009-05/2012** Autoeuroexpress – cargo transportation in Europe 
                     **Accountant**
--**05/2008-10/2009** Marko S – wholesale of building materials
+- **05/2008-10/2009** Marko S – wholesale of building materials
                     **Goods manager of marketing department**
--**04/2006-04/2008** AMV Group – Belarusian-Greek company
+- **04/2006-04/2008** AMV Group – Belarusian-Greek company
                     **Marketing specialist**
 
 *Marketing research, full administrative support of deals, recruiting international employees and preparation of relevant documentation, customs clearance, office documentation, daily bookkeeping and accounting processes including:  payroll, bank reconciliation; monthly analytics and reports*
@@ -53,11 +53,9 @@
 ---
 
 ## Code samples
-
-'''
+```
 <!DOCTYPE html>
 <html>
-
 	<head>
 		<meta charset="UTF-8"/>
 		<title>Моя первая HTML страничка!</title>
@@ -68,10 +66,10 @@
 		<ol start = "1920">
     <li><span>Пункт первый</span></li>
     <li><span>Пункт второй</span></li>
-</ol>
+        </ol>
 	</body>
 </html>
-'''
+```
             
 
 
