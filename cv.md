@@ -7,7 +7,7 @@
 
 *I can keep focus on the sprint goal as well as look at the big picture and use learnings from my experience. I like to multitask, in my professional as well as my personal life. I enjoy high pace environment and feel comfortable working with big amount of changing information and processes. It keeps me interested and gives a feeling of moving forward. I like taking responsibility and find improvement opportunities. I am willing to learn and is open to feedback.*
 
-*As a search evaluator for Appen I developed the following qualities – an eye for detail, accuracy, working with technical documenation, ability to quickly judge websites usability and quality of resourses. As an accountant, I developed organizational, reporting and analytical abilities as well as learned to work efficiently in a team.*
+*As a search evaluator for Appen I developed the following qualities – an eye for detail, accuracy, working with technical documenation, ability to quickly judge websites usability and quality of resources. As an accountant, I developed organizational, reporting and analytical abilities as well as learned to work efficiently in a team.*
 
 **Experienced in:**
 *MS Office, Web Plus (Serif), Wordpress, Photoshop, Jira, GitHub, Asana, Trello, HTML, CSS*
