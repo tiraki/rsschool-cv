@@ -22,8 +22,10 @@ div {
 
 .footer {
 	display: flex;
-    align-items: center;
-    margin-left: 550px;
+	justify-content: space-between;
+	align-items: center;
+	align-self: center;
+
 }
 
   .first-column {
@@ -31,17 +33,19 @@ div {
 	padding: 20px;
 	width: 300px;
 	margin: 30px;
-	
-  }
+}
 
   .second-column {
 	background-color: #ffffff;
 	padding: 20px;
 	margin: 30px;
 	width: 800px;
-  }
+}
 	
   body {
     display: flex;
     flex-wrap:wrap;
+	align-items:flex-start;
+	justify-content: center;
+  
   }
