@@ -1,7 +1,5 @@
 # Papadopoulou Irina
 
-(images/photo.jpg)
-
 ##Contacts
 
 - Mobile: +375 44 730 00 09
@@ -52,7 +50,7 @@
 
 ## Hobby
 
-*Photography, Photo editing, Programming in HTML & CSS, Volleyball, Travelling*
+*Photography, Dancing, Volleyball, Travelling*
 
 ---
 
