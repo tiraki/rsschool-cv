@@ -53,9 +53,14 @@
     flex-direction: row;
     display: flex;
     max-width: 95%;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
          }
+
+  main {
+    text-align:left;
+    padding: 20px;
+  }
   
   .footer {
     margin: 0 auto;
